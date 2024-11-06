@@ -1,0 +1,3 @@
+/Users/himanshup/Desktop/MyCMakeProject/build/CMakeFiles/MyCMakeProject.dir
+/Users/himanshup/Desktop/MyCMakeProject/build/CMakeFiles/edit_cache.dir
+/Users/himanshup/Desktop/MyCMakeProject/build/CMakeFiles/rebuild_cache.dir
